@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tarea_Pablo</string>
+    <string name="TituloBienvenida">Bienvenido</string>
+    <string name="Entrar">Enter</string>
+</resources>
